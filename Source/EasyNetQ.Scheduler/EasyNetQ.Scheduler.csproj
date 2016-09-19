@@ -46,8 +46,8 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\EasyNetQ\bin\$(Configuration)\net451\EasyNetQ.dll</HintPath>
     </Reference>
-    <Reference Include="EasyNetQ.Management.Client, Version=0.47.17.64, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EasyNetQ.Management.Client.0.47.17.64\lib\net40\EasyNetQ.Management.Client.dll</HintPath>
+    <Reference Include="EasyNetQ.Management.Client, Version=0.51.1.105, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyNetQ.Management.Client.0.51.1.105\lib\net40\EasyNetQ.Management.Client.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
